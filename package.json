@@ -1,9 +1,21 @@
 {
     "name": "dash-middleware",
     "version": "1.0.0",
+    "author": "José Vte. Calderón <jvcprod@hhotmail.com>",
     "scripts": {
         "test": "mocha"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jvcalderon/dash-middleware.git"
+    },
+    "keywords": [
+        "dash",
+        "sqlite",
+        "sequelize"
+    ],
+    "main": "index",
+    "license": "MIT",
     "dependencies": {
         "sequelize": "^4.11.2",
         "sqlite3": "^3.1.13"
