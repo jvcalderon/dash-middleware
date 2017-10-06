@@ -1,7 +1,7 @@
 {
     "name": "dash-middleware",
     "version": "1.0.0",
-    "author": "José Vte. Calderón <jvcprod@hhotmail.com>",
+    "author": "José Vte. Calderón <jvcprod@hotmail.com>",
     "scripts": {
         "test": "mocha"
     },
