@@ -1,7 +1,7 @@
 {
   "name": "dash-middleware",
   "description": "Provides Sequelize models to use your Dash's snippet database",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "José Vte. Calderón <jvcprod@hotmail.com>",
   "scripts": {
     "test": "mocha"
