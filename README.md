@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/dash-middleware.png?downloads=true&stars=true)](https://nodei.co/npm/dash-middleware/)
+
 Dash Middleware
 ==============
 
