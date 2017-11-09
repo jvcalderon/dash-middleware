@@ -2,8 +2,8 @@
 
 const assert = require("assert")
 const fs = require("file-system")
-const TMP_DIR = 'TMP'
-const ORIGINAL_MOCK_FILE = 'dashFileMock.dash'
+const TMP_DIR = __dirname + '/TMP'
+const ORIGINAL_MOCK_FILE = __dirname + '/dashFileMock.dash'
 const TEST_MOCK_FILE = 'dashFileMockTest.dash'
 const DashMiddleware = require("../lib/dashMiddleware")
 

@@ -3,6 +3,10 @@
 Dash Middleware
 ==============
 
+[![Build Status](https://travis-ci.org/jvcalderon/dash-middleware.svg?branch=master)](https://travis-ci.org/jvcalderon/dash-middleware)
+[![Coverage Status](https://coveralls.io/repos/github/jvcalderon/dash-middleware/badge.svg?branch=master)](https://coveralls.io/github/jvcalderon/dash-middleware?branch=master)
+[![Known Vulnerabilities](https://snyk.io/test/github/jvcalderon/dash-middleware/badge.svg)](https://snyk.io/test/github/jvcalderon/dash-middleware)
+
 Simple module who provides Sequelize models to use [Dash](https://kapeli.com/dash)'s snippet database (SQLite DB file)
 
 ## Installation
