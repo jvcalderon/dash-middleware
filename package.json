@@ -19,7 +19,7 @@
   "main": "index",
   "license": "MIT",
   "dependencies": {
-    "sequelize": "^4.11.2",
+    "sequelize": "^5.1.0",
     "sqlite3": "^4.0.0"
   },
   "devDependencies": {
